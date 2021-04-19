@@ -65,7 +65,7 @@ export default function IndexPage() {
         initialValues={{ emailAddress: "", mobileNumber: "" }}
         onSubmit={handlerOnSubmit}
       >
-        {({ values, errors, touched, handleSubmit, isSubmitting }) => {
+        {({ errors, handleSubmit, isSubmitting }) => {
           return (
             <Form role="form" onSubmit={handleSubmit}>
               <Heading>Join the waiting list.</Heading>
