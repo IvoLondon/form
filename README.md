@@ -1,4 +1,4 @@
-# Task
+# Excercise
 
 Fans would like to be added to a waiting list when they have been unlucky after the first batch of tickets sold out quickly. This will enable them to come back to the site and buy when more tickets become available.
 
