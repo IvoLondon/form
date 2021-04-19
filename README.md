@@ -12,7 +12,6 @@ The body should be JSON and contain `emailAddress` and `mobileNumber` fields
 - A success message "You have been added to the waiting list" should be displayed on successful submission
 - Display error message returned by the api on an unsuccessful submission
 - Accessibility should be considered
-- Design should be loosely based on the Ticketmaster website: https://www.ticketmaster.co.uk/
 
 ## Additional features:
 
